@@ -27,4 +27,3 @@ function cal(num1, num2) {
       const divisionResult = factorial1 / factorial2;
       console.log(divisionResult.toFixed(2));
 }
-cal(5,3)
