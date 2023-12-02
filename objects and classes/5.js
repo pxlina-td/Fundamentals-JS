@@ -12,7 +12,7 @@ function inventory(arr) {
     for (let hero of heroes) {
         console.log(`Hero: ${hero.name}`);
         console.log(`level => ${hero.level}`);
-        console.log(`Items => ${hero.items}`);
+        console.log(`items => ${hero.items}`);
     }
 }
 inventory([
